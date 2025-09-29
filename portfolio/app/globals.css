@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+*{
+  font-family: Outfit;
+}
+.bg-footer {
+  background-image: url('/footer-bg-color.png');
+  background-size: cover;
+  background-position: center;
+}
