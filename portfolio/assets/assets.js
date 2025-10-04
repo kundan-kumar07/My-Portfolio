@@ -81,7 +81,7 @@ export const assets = {
 export const workData = [
     {
         title: 'Edusity',
-        description: 'Fronted Project',
+        description: 'Frontend Project',
         bgImage: '/university.png',
         link:"https://university-page-frontend-project.vercel.app/"
     },
