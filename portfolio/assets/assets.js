@@ -86,23 +86,23 @@ export const workData = [
         link:"https://university-page-frontend-project.vercel.app/"
     },
     {
-        title: 'Quick.ai',
-        description: 'Full stack ai saas app',
+        title: 'GreenCart',
+        description: 'Grocery Delivery App',
         bgImage: '/work2.jpg',
-        link:"https://ai-saas-app-gray.vercel.app/"
+        link:"https://greencart-front.vercel.app/"
         
     },
     {
-        title: 'Spotify Clone',
-        description: 'Full Stack Project with Admin feature',
+        title: 'Music Platform',
+        description: 'Full Stack Project',
         bgImage: '/work-3.jpg',
         link:"https://spotify-frontend-oq0o.onrender.com/"
     },
     {
-        title: 'Ford Car Price Prediction',
-        description: 'DS/ML Project',
+        title: 'PingUp',
+        description: 'Full Stack Social Media',
         bgImage: '/work-4.jpg',
-        link:"https://fordcarpriceprediction-kr3dvwr6akkvugfrfghync.streamlit.app/"
+        link:"https://ping-up-eight-vert.vercel.app/"
     },
     
 ]
